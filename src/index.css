@@ -128,10 +128,13 @@ header {
 
 .album_bg {
   position: absolute;
+  object-fit: cover;
+  width: 100%;
   width: 3000px;
-  left: -600px;
-  filter: blur(8px);
-  -webkit-filter: blur(150px);
+  left: -550px;
+  filter: blur(150px);
+  /* -webkit-filter: blur(150px); */
+  backdrop-filter: blur(150px);
   opacity: 0.35;
   transition: 0.8s top;
 }
@@ -335,6 +338,7 @@ header {
 .sidebar {
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   width: 300px;
   height: 600px;
   margin-left: 50px;
@@ -421,7 +425,14 @@ header {
 @media all and (max-width: 800px) {
   header {
     padding: 0 63px;
-    /* margin-top: 28px; */
+  }
+
+  .avatar {
+    display: none;
+  }
+
+  .search_icon {
+    margin-left: 10px;
   }
 
   .audio_player_info {
@@ -480,7 +491,7 @@ header {
   .search_content {
     display: flex;
     position: absolute;
-    top: 132px;
+    top: 166px;
     left: 50px;
     width: calc(100% - 50px);
     height: calc(100vh - 314px);

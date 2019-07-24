@@ -503,24 +503,28 @@ class App extends React.Component {
                 src="https://i.scdn.co/image/d871b2db8618beb9e03e964ed93a2c9fae724f79"
                 alt="you_might_enjoy_1"
                 width={138}
+                height={138}
               />
               <img
                 className="you_might_enjoy_cover"
                 src="https://i.scdn.co/image/f0a158088e3826ba739ca7ebeb8e0e511f1ed320"
                 alt="you_might_enjoy_2"
                 width={138}
+                height={138}
               />
               <img
                 className="you_might_enjoy_cover"
                 src="https://i.scdn.co/image/779493fc5bc93b66c2f7344644265dff745de22d"
                 alt="you_might_enjoy_3"
                 width={138}
+                height={138}
               />
               <img
                 className="you_might_enjoy_cover"
                 src="https://i.scdn.co/image/ecaff984f77f7c2ba7530ef268ff64066c7b0c68"
                 alt="you_might_enjoy_4"
                 width={138}
+                height={138}
               />
             </div>
             <div className="sidebar_title one_line">Play history</div>
