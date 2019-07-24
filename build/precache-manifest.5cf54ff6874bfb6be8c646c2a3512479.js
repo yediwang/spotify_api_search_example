@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88510efe15029e4bdd9b7a1919cae768",
+    "revision": "c95b7c227d6b3d4d1c5208549eb21e04",
     "url": "/spotify_api_search_example/index.html"
   },
   {
-    "revision": "6c3aa2a587674773d7eb",
-    "url": "/spotify_api_search_example/static/css/main.49ccfa9e.chunk.css"
+    "revision": "67d3d246b171f6ac75e2",
+    "url": "/spotify_api_search_example/static/css/main.c071de65.chunk.css"
   },
   {
     "revision": "9ef0e6ae7efb40699514",
     "url": "/spotify_api_search_example/static/js/2.b73a0406.chunk.js"
   },
   {
-    "revision": "6c3aa2a587674773d7eb",
-    "url": "/spotify_api_search_example/static/js/main.1025854d.chunk.js"
+    "revision": "67d3d246b171f6ac75e2",
+    "url": "/spotify_api_search_example/static/js/main.c204bfe0.chunk.js"
   },
   {
     "revision": "31217c900bd9edfa5fc5",
@@ -22,10 +22,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9a5c45277e6555adc7ee38e9a48a241",
     "url": "/spotify_api_search_example/static/media/ABeeZee-Regular.f9a5c452.otf"
-  },
-  {
-    "revision": "877e8de72d7600fdddcd6c08b1af3860",
-    "url": "/spotify_api_search_example/static/media/Aganè 55 (roman).877e8de7.ttf"
   },
   {
     "revision": "c7cfcfbb8e808dc43cc62a4f5f80ac6b",

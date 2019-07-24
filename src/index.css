@@ -1,9 +1,4 @@
 @font-face {
-  font-family: 'Aganè S';
-  src: url('./assets/fonts/Aganè 55 (roman).ttf');
-}
-
-@font-face {
   font-family: 'ABeeZee';
   src: url('./assets/fonts/ABeeZee-Regular.otf');
 }
@@ -15,7 +10,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  min-width: 480px;
+  /* min-width: 480px; */
   overflow-y: hidden;
 }
 
@@ -29,7 +24,7 @@ header {
   justify-content: space-between;
   margin-top: 41px;
   padding: 0 103px;
-  font-family: "Aganè S";
+  font-family: "ABeeZee";
   font-size: 14px;
   color: #353540;
 }
@@ -60,7 +55,7 @@ header {
   margin-left: 34px;
   background-color: transparent;
   border: 0;
-  font-family: "Aganè S";
+  font-family: "ABeeZee";
   font-size: 13px;
   letter-spacing: 0.5px;
   outline-width: 0;
