@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spotify_api_search_example/static/css/main.644be292.chunk.css",
+    "main.css": "/spotify_api_search_example/static/css/main.c071de65.chunk.css",
     "main.js": "/spotify_api_search_example/static/js/main.c204bfe0.chunk.js",
     "main.js.map": "/spotify_api_search_example/static/js/main.c204bfe0.chunk.js.map",
     "runtime~main.js": "/spotify_api_search_example/static/js/runtime~main.3c17f4f9.js",
@@ -8,10 +8,10 @@
     "static/js/2.b73a0406.chunk.js": "/spotify_api_search_example/static/js/2.b73a0406.chunk.js",
     "static/js/2.b73a0406.chunk.js.map": "/spotify_api_search_example/static/js/2.b73a0406.chunk.js.map",
     "index.html": "/spotify_api_search_example/index.html",
-    "precache-manifest.911c04a8f7049987bad2ad0481cfc4d8.js": "/spotify_api_search_example/precache-manifest.911c04a8f7049987bad2ad0481cfc4d8.js",
+    "precache-manifest.5cf54ff6874bfb6be8c646c2a3512479.js": "/spotify_api_search_example/precache-manifest.5cf54ff6874bfb6be8c646c2a3512479.js",
     "service-worker.js": "/spotify_api_search_example/service-worker.js",
-    "static/css/main.644be292.chunk.css.map": "/spotify_api_search_example/static/css/main.644be292.chunk.css.map",
-    "static/media/index.css": "/spotify_api_search_example/static/media/Aganè 55 (roman).877e8de7.ttf",
+    "static/css/main.c071de65.chunk.css.map": "/spotify_api_search_example/static/css/main.c071de65.chunk.css.map",
+    "static/media/index.css": "/spotify_api_search_example/static/media/ABeeZee-Regular.f9a5c452.otf",
     "static/media/album_1.png": "/spotify_api_search_example/static/media/album_1.c7cfcfbb.png",
     "static/media/pause.png": "/spotify_api_search_example/static/media/pause.6f346068.png",
     "static/media/play.png": "/spotify_api_search_example/static/media/play.4d509e75.png"
