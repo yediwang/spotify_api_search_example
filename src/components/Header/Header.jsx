@@ -32,7 +32,7 @@ class Header extends React.Component {
 
     const authEndpoint = "https://accounts.spotify.com/authorize";
     const clientId = "6425d030e575402ca3e9d8a5b393cae5";
-    const redirectUri = "http://localhost:3000";
+    const redirectUri = "https://yediwang.github.io/spotify_api_search_example";
 
     if (!_token) {
       window.location = `${authEndpoint}?client_id=${clientId}&redirect_uri=${redirectUri}&response_type=token&show_dialog=true`;
